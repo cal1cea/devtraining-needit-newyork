@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmn_schedule">
+    <cmn_schedule action="INSERT_OR_UPDATE">
+        <calendar_name/>
+        <description/>
+        <document>cmn_rota</document>
+        <document_key>16b8cb702f668c105336d3f62799b647</document_key>
+        <is_legacy_schedule>true</is_legacy_schedule>
+        <label/>
+        <name>FI</name>
+        <parent/>
+        <plural_label/>
+        <read_only>false</read_only>
+        <sys_class_name>cmn_schedule</sys_class_name>
+        <sys_created_by>calicea</sys_created_by>
+        <sys_created_on>2020-01-22 16:07:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>26b8cb702f668c105336d3f62799b648</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>FI</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>cmn_schedule_26b8cb702f668c105336d3f62799b648</sys_update_name>
+        <sys_updated_by>calicea</sys_updated_by>
+        <sys_updated_on>2020-01-22 21:11:03</sys_updated_on>
+        <time_zone>US/Pacific</time_zone>
+        <type>roster</type>
+    </cmn_schedule>
+</record_update>
